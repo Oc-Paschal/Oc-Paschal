@@ -42,11 +42,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oc-Paschal&theme=dracula&margin-w=15" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me  
