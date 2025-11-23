@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="150" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Oc Paschal</h1>
 
@@ -14,7 +12,7 @@
 - 🔭 I just finished building my personal **portfolio website**  
 - 🌱 Currently learning: **JavaScript & TailwindCSS**  
 - 💡 In love with clean UI, animations, and modern web design  
-- 🎯 Goal: Become a full-stack JavaScript developer  
+- 🎯 Goal: Become a full-stack developer  
 
 ---
 
